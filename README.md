@@ -1,6 +1,8 @@
 # VRM Pose Editor
 
 
+![VRM Pose Editor Capture Image](capture.png)
+
 VRM Pose Editor adalah aplikasi berbasis web yang memungkinkan pengguna untuk mengedit pose model VRM (Virtual Reality Model) secara interaktif. Dengan antarmuka yang mudah digunakan, pengguna dapat mengatur rotasi bagian tubuh model VRM dan melihat hasilnya secara langsung.
 
 ## Fitur
@@ -13,4 +15,4 @@ VRM Pose Editor adalah aplikasi berbasis web yang memungkinkan pengguna untuk me
 
 ## Demo
 
-https://three-js-vrm-pose-editor-cowtii6vk-adens-projects-fd8731e1.vercel.app/
+https://three-js-vrm-pose-editor.vercel.app/
