@@ -1,18 +1,32 @@
-# VRM Pose Editor
+# 🎮 VRM Pose Editor
 
+![VRM Pose Editor Screenshot](capture.png)
 
-![VRM Pose Editor Capture Image](capture.png)
+**VRM Pose Editor** is a web-based tool that allows users to interactively edit the pose of VRM (Virtual Reality Model) characters. Featuring an intuitive and user-friendly interface, you can easily adjust the rotation of various body parts and preview changes in real time.
 
-VRM Pose Editor adalah aplikasi berbasis web yang memungkinkan pengguna untuk mengedit pose model VRM (Virtual Reality Model) secara interaktif. Dengan antarmuka yang mudah digunakan, pengguna dapat mengatur rotasi bagian tubuh model VRM dan melihat hasilnya secara langsung.
+---
 
-## Fitur
+## 🚀 Features
 
+- 🔧 **Interactive Controls**  
+  Adjust the rotation of body parts like the head, spine, jaw, and arms using easy-to-use sliders.
 
-- Kontrol Interaktif: Menggunakan slider untuk mengatur rotasi bagian tubuh seperti kepala, tulang belakang, rahang, dan lengan.
-- Penyimpanan dan Pemulihan Pose: Simpan pose yang telah disesuaikan ke file JSON dan muat kembali pose dari file JSON.
-- Rendering Real-Time: Model VRM dirender dengan teknologi WebGL menggunakan Three.js, memberikan pengalaman visual yang realistis.
-- Responsif: Antarmuka pengguna yang responsif untuk digunakan di berbagai perangkat.
+- 💾 **Save & Load Poses**  
+  Export customized poses as JSON files and reload them anytime for further editing.
 
-## Demo
+- 🖼️ **Real-Time Rendering**  
+  Powered by **Three.js** and WebGL, providing a smooth and realistic visual experience.
 
-https://three-js-vrm-pose-editor.vercel.app/
+- 📱 **Responsive Design**  
+  Optimized for desktops, tablets, and smartphones.
+
+---
+
+## 🔗 Live Demo
+
+👉 [**Try the VRM Pose Editor**](https://three-js-vrm-pose-editor.vercel.app/)
+
+---
+
+Feel free to contribute, suggest features, or report issues!  
+Happy posing! 🎯
