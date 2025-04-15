@@ -1,12 +1,16 @@
-# React + Vite
+# VRM Pose Editor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+VRM Pose Editor adalah aplikasi berbasis web yang memungkinkan pengguna untuk mengedit pose model VRM (Virtual Reality Model) secara interaktif. Dengan antarmuka yang mudah digunakan, pengguna dapat mengatur rotasi bagian tubuh model VRM dan melihat hasilnya secara langsung.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Fitur
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Kontrol Interaktif: Menggunakan slider untuk mengatur rotasi bagian tubuh seperti kepala, tulang belakang, rahang, dan lengan.
+- Penyimpanan dan Pemulihan Pose: Simpan pose yang telah disesuaikan ke file JSON dan muat kembali pose dari file JSON.
+- Rendering Real-Time: Model VRM dirender dengan teknologi WebGL menggunakan Three.js, memberikan pengalaman visual yang realistis.
+- Responsif: Antarmuka pengguna yang responsif untuk digunakan di berbagai perangkat.
+
+## Demo
+
+https://three-js-vrm-pose-editor-cowtii6vk-adens-projects-fd8731e1.vercel.app/
